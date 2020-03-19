@@ -1,0 +1,24 @@
+#loginForm {
+    padding-top: 150px;
+}
+
+body {
+    background-image: url("/images/bg/login-bg.jpg");
+    background-size: cover;
+}
+
+label {
+    color: white;
+}
+
+.footer a {
+    color: white;
+}
+
+h4 {
+    color: white;
+}
+
+.footer p {
+    color: white;
+}

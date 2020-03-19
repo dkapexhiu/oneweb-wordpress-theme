@@ -1,0 +1,16 @@
+body {
+    background-image: url("/images/bg/login-bg.jpg");
+    background-size: cover;
+    color: white;
+    margin-top: 250px;
+    font-size: 30px;
+}
+
+a {
+    text-decoration-style: none;
+    color: white;
+}
+
+a:hover {
+    color: yellow;
+}
